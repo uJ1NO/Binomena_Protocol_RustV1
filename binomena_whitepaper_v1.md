@@ -98,11 +98,11 @@ Developers can create smart contracts using various programming languages, with 
 
 ## 6. Team and Advisors
 
-[Details about the team's experience and advisors' expertise]
+[*****]
 
 ## 7. Token Distribution and Funding
 
-[Information about token allocation, vesting schedules, and funding rounds]
+[*****]
 
 ## 8. Conclusion
 
