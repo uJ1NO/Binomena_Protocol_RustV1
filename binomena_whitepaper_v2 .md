@@ -205,8 +205,8 @@ This contract encourages active participation in the network by rewarding users 
 Key features:
 
 Tiered rewards system based on the number of activities
-15% bonus for 100 or more activities in a year
-5.5 Compound Rewards Example
+15% bonus for 100 or more activities in a year.
+## 5.5 Compound Rewards Example
 To illustrate the power of these combined reward systems, let's consider an example of an investor with $10,000 worth of BNM tokens staked for one year:
 
 Initial investment: $10,000 worth of BNM tokens Staking period: 1 year Staked during the birthday period Referred 2 friends who joined the network Performed 100 activities on the network during the year
