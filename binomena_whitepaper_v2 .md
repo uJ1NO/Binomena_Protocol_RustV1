@@ -10,10 +10,10 @@ Binomena Protocol is a groundbreaking blockchain platform designed to transform 
 2. The Binomena Ecosystem
 3. Value Proposition for Corporate Issuers
 4. Value Proposition for Individual Investors
-5. Technical Architecture
-6. Tokenomics
-7. Governance and Future Development
-8. Conclusion
+5. Reward Smart Contracts
+6. Conclusion
+7. Creator Attribution and Rights
+
 
 ## 1. Introduction
 
